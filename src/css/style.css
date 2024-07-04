@@ -470,8 +470,7 @@ footer {
   }
 
   .promo_header,
-  .promo_subheader,
-  .promo_li {
+  .promo_subheader {
     text-align: center;
   }
 
@@ -495,9 +494,27 @@ footer {
     font-size: 8px;
   }
   .main__logo {
-    font-size: 12px;
+    font-size: 15px;
   }
   .btn_product {
     width: 16rem;
+  }
+
+  i {
+    width: 45px;
+    margin-left: 0px;
+  }
+
+  .contact {
+    gap: 0px;
+  }
+
+  .title {
+    font-size: 2rem;
+  }
+
+  .promo {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
   }
 }
